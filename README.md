@@ -1,6 +1,6 @@
 # A simple brick breaker example
 
-This is a simple example of a brick breaker in HTML, CSS & Javascript. This is the result for [this tutorial]()
+This is a simple example of a brick breaker in HTML, CSS & Javascript.
 
 ## Live demo
 
